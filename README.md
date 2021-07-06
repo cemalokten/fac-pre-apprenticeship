@@ -2,7 +2,9 @@
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
-## 🏀 Week One 
+===================================================================================================
+
+# 🏀 Week One 
 
 ### 📝 To Do
 
@@ -40,7 +42,9 @@ The following coding challenges should be completed without using `.map()` `.fil
 
 Good luck! 🙃
 
-## 🌋 Week Three 
+===================================================================================================
+
+# 🌋 Week Three 
 
 ### 📝 To Do
 
