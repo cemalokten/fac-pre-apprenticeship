@@ -40,15 +40,26 @@ The following coding challenges should be completed without using `.map()` `.fil
 
 Good luck! 🙃
 
-<!-- ## 🌋 Week Two 
+## 🌋 Week Two 
 
 ### 📝 To Do
 
-- [ ] Something
+- [x] Work through the **CSS Layouts workshop**
+- [ ] Build a **projects gallery** (over two weeks)
+- [ ] Work through **Grid Garden**
+- [x] Recreate a BBC News style homepage using **CSS Grid**
+- [ ] Learn about **ARIA** Labels
+- [ ] Commit something every day to GitHub
+- [ ] Complete **Playing with CSS Variables** (JS30)
+- [ ] Complete **Array Cardio 1** (JS30)
+- [ ] Continue Execute program (Modern JavaScript and Arrays)
+- [ ] Prepare another coding challenge
+- [ ] Research this weeks guest employer (Tom Dignan of Apolitical)
+- [ ] Continue using twitter everyday
 
 ### 🧪 Projects Completed
 
-## 💎 Week Three 
+<!-- ## 💎 Week Three 
 
 ### 📝 To Do
 
