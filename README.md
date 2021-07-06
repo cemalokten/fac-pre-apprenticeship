@@ -1,7 +1,7 @@
 ## FAC Pre-apprenticeship Work 2021
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
-
+<details open>
 ## 🏀 Week One 
 
 ### 📝 To Do
@@ -39,6 +39,7 @@ The following coding challenges should be completed without using `.map()` `.fil
 `let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23'], ["Peach", '£6.02'], ["Pineaple", '£5.00']];`
 
 Good luck! 🙃
+</details>
 
 ## 🌋 Week Three 
 
