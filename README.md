@@ -40,7 +40,7 @@ The following coding challenges should be completed without using `.map()` `.fil
 
 Good luck! 🙃
 
-## 🌋 Week Two 
+## 🌋 Week Three 
 
 ### 📝 To Do
 
