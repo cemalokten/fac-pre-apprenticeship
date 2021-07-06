@@ -2,8 +2,6 @@
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
-===================================================================================================
-
 # 🏀 Week One 
 
 ### 📝 To Do
@@ -42,24 +40,22 @@ The following coding challenges should be completed without using `.map()` `.fil
 
 Good luck! 🙃
 
-===================================================================================================
-
 # 🌋 Week Three 
 
 ### 📝 To Do
 
-- [x] Work through the **CSS Layouts workshop**
-- [ ] Build a **projects gallery** (over two weeks)
-- [ ] Work through **Grid Garden**
-- [x] Recreate a BBC News style homepage using **CSS Grid**
-- [ ] Learn about **ARIA** Labels
-- [ ] Commit something every day to GitHub
-- [ ] Complete **Playing with CSS Variables** (JS30)
-- [ ] Complete **Array Cardio 1** (JS30)
-- [ ] Continue Execute program (Modern JavaScript and Arrays)
-- [ ] Prepare another coding challenge
-- [ ] Research this weeks guest employer (Tom Dignan of Apolitical)
-- [ ] Continue using twitter everyday
+- [x] Work through the **CSS Layouts workshop** [TUE]
+- [ ] Build a **projects gallery** (over two weeks) [ONGOING]
+- [x] Work through **Grid Garden** [TUE]
+- [x] Recreate a BBC News style homepage using **CSS Grid** [TUE]
+- [ ] Learn about **ARIA** Labels [TUE]
+- [x] Commit something every day to GitHub [ONGOING]
+- [ ] Complete **Playing with CSS Variables** (JS30) [WED]
+- [ ] Complete **Array Cardio 1** (JS30) [WED]
+- [ ] Continue Execute program (Modern JavaScript and Arrays) [ONGOING]
+- [ ] Prepare another coding challenge [THUR]
+- [ ] Research this weeks guest employer (Tom Dignan of Apolitical) [THUR]
+- [x] Continue using twitter everyday [ONGOING]
 
 ### 🧪 Projects Completed
 
