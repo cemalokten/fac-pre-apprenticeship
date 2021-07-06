@@ -1,0 +1,238 @@
+/* THE CHALLENGE */
+/* Layout the contents of the <main> container in a 
+5-column/2-row grid. */
+
+/* ALTER BELOW THIS LINE */
+
+/* add/edit your style declarations here */
+
+.posts {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	gap: 1rem;
+}
+
+.posts__two {
+	background-image: url(https://css-tricks.com/wp-content/uploads/2018/12/guide-flexbox.png);
+	background-size: cover;
+}
+
+/* DO NOT ALTER BELOW THIS LINE */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0 5vw;
+	font-family: "Gothic A1", sans-serif;
+}
+
+main {
+	position: relative;
+	margin: 0 auto;
+	max-width: 1280px;
+	z-index: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: Helvetica, Arial, freesans, sans-serif;
+	margin: 0;
+}
+
+h4 {
+	margin-bottom: 0.25rem;
+}
+
+a {
+	color: hsla(0, 0%, 0%, 1);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-color: hsla(199, 49%, 42%, 1);
+	color: hsla(199, 49%, 42%, 1);
+}
+
+nav {
+	padding-top: 0.5rem;
+}
+
+.navbar-red {
+	padding: 1rem 0 1rem 5vw;
+	width: 95vw;
+	min-height: 3.5rem;
+	background: hsla(3, 63%, 45%, 1);
+	color: hsla(0, 0%, 100%, 1);
+	z-index: -3;
+	margin: 0.25rem 0 1rem -5vw;
+}
+
+footer {
+	width: 95vw;
+	margin: 0.5rem 0 0 -5vw;
+	background: hsla(0, 0%, 30%, 1);
+	color: hsla(0, 0%, 100%, 1);
+	padding: 5rem 0 1em 5vw;
+	border-top: 1px solid hsla(0, 0%, 58%, 1);
+}
+
+.footer__credits,
+.footer__credits:hover {
+	color: hsla(0, 0%, 100%, 1);
+}
+
+.footer__credits:hover {
+	text-decoration: underline;
+	text-decoration-color: hsla(0, 0%, 100%, 1);
+}
+
+.posts__post-borders {
+	border: 5px dashed hsla(0, 0%, 0%, 1);
+}
+
+.posts__img {
+	min-width: 50px;
+	min-height: 145px;
+	width: 100%;
+	background: hsla(0, 0%, 90%, 1);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+.posts__img-link {
+	display: block;
+	width: 100%;
+	min-height: 145px;
+	top: 0;
+	left: 0;
+}
+
+.posts__title {
+	margin-top: 0.5rem;
+}
+
+.posts__img-one {
+	background-image: url(https://lh3.googleusercontent.com/Linx0BQZt67O9rehDQI9EBbQdbTIntr1S0Qu5Z_0nAMeYiEccX_bHJZk29_cluelMWz110ScZw=w128-h128-e365);
+}
+
+.posts__img-two {
+	background-image: url(https://camo.githubusercontent.com/9b290de6835cf807aaa81bb6a7cfdf3835636f8c/68747470733a2f2f7261776769742e636f6d2f416c6c5468696e6773536d697474792f6373732d70726f746970732f6d61737465722f6d656469612f6c6f676f2e737667);
+}
+
+.posts__img-three {
+	background-image: url(https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png);
+}
+
+.posts__img-four {
+	background-image: url(https://cdn3.iconfinder.com/data/icons/spring-23/32/carrot-vegetable-spring-food-512.png);
+}
+
+.posts__list-item {
+	padding-bottom: 0.5rem;
+	border-bottom: 1px solid hsla(0, 0%, 86%, 1);
+	margin-bottom: 0.5rem;
+}
+
+.posts__list-item:last-of-type {
+	margin-bottom: 0;
+	border-bottom: none;
+}
+
+.posts__clock {
+	margin-right: 0.25rem;
+}
+
+.posts__reading-time {
+	border-right: 1px solid hsla(0, 0%, 86%, 1);
+	padding-right: 0.25rem;
+}
+
+.posts__category {
+	padding-left: 0.5rem;
+}
+
+.posts__reading-time,
+.posts__category {
+	font-size: 0.75em;
+}
+
+.posts__two {
+	grid-column: span 2;
+}
+
+.posts__four {
+	height: 100%;
+	grid-row: span 2;
+}
+
+/* GRID OVERLAY STYLING */
+.grid {
+	height: 100%;
+	position: fixed;
+	top: 0;
+	display: flex;
+	z-index: 1;
+	pointer-events: none;
+}
+
+.grid__col {
+	height: 100%;
+	width: 20%;
+	background: hsla(350, 52%, 33%, 0.5);
+	margin-right: 1rem;
+}
+
+.grid__col:last-child {
+	margin-right: 0;
+}
+
+.grid-controls {
+	position: fixed;
+	top: calc(100vh - 5rem);
+	right: 2rem;
+	color: hsla(0, 0%, 100%, 1);
+	background-color: hsla(0, 0%, 0%, 1);
+	padding: 0.5rem 0.75rem;
+	border-radius: 0.5rem;
+	z-index: 10;
+}
+
+.grid-control-wrapper__overlay-hidden {
+	display: none;
+}
+
+/* STRETCH GOAL */
+/* MEDIA QUERIES TO HELP MAKE THE COLUMN OVERLAY RESPONSIVE */
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	.grid__col5 {
+		display: none;
+	}
+	.grid__col4 {
+		margin-right: 0;
+	}
+	.grid__col {
+		width: 25%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.grid__col4,
+	.grid__col5 {
+		display: none;
+	}
+	.grid__col3 {
+		margin-right: 0;
+	}
+	.grid__col {
+		width: calc(100% / 3);
+	}
+}

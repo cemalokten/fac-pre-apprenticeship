@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>CSS Grid Design Challenge</title>
+  <link rel="stylesheet" media="screen" href="style.css" />
+  <link rel="stylesheet" media="screen" href="responsive.css" />
+  <link href="https://fonts.googleapis.com/css?family=Gothic+A1&display=swap" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Using layout and spacing to display a list of Tweets on a website." />
+</head>
+
+<body>
+  <nav>
+    <img src="./images/css-logo.svg" alt="A modified version of the BBC logo, replaced with 'CSS'" />
+    <div class="navbar-red">
+      <img src="./images/news-logo.svg" alt="The BBC News logo" />
+    </div>
+  </nav>
+
+  <!-- ALTER CODE BELOW THIS LINE-->
+  <main class="posts">
+    <article class="posts__post posts__one">
+      <h2>
+        <a href="https://css-tricks.com/css-grid-replace-flexbox/" target="_blank">Does CSS Grid Replace Flexbox?</a>
+      </h2>
+      <p>
+        Grid is much newer than Flexbox and has a bit less browser support.
+        That's why it makes perfect sense if people are wondering if CSS grid
+        is here to replace Flexbox.
+      </p>
+      <span class="posts__reading-time">
+        <span class="posts__clock">
+          <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+          aria-hidden="true">16min</span>
+      </span>
+      <span class="posts__category">Intermediate</span>
+    </article>
+    <article class="posts__post posts__two">
+      <a href="https://css-tricks.com/css-grid-replace-flexbox/" target="_blank" class="posts__img-link"></a>
+    </article>
+    <article class="posts__post posts__three">
+      <h3>
+        <a href="https://codepen.io/oliviale" target="_blank">Cool CSS Grid CodePens</a>
+      </h3>
+      <ol>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/moLrBq" target="_blank">House floor plan</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/tutsplus/pen/pNgZpj" target="_blank">Web comic</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/jarrodyellets/pen/OQOwZL" target="_blank">Newspaper layout</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/johnnycopes/pen/yzQyMp" target="_blank">Monopoly board</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/MNJwBM" target="_blank">Pacman</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/NmYvEb" target="_blank">QR code</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/MZZYyO" target="_blank">Train ticket</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/PXGgMG" target="_blank">A shelf!</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/ZmvPPd" target="_blank">Periodic table</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/oliviale/pen/rPjgmB" target="_blank">Excel spreadsheet</a>
+        </li>
+      </ol>
+    </article>
+    <article class="posts__post posts__four">
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://www.smashingmagazine.com/2018/04/art-directing-web-css-grid/" target="_blank">Art Directing
+            For The Web With CSS Grid Template Areas</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">18min</span>
+        </span>
+        <span class="posts__category">Advanced</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/"
+            target="_blank">Understanding CSS Grid: Creating A Grid Container</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">14min</span>
+        </span>
+        <span class="posts__category">Beginner</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://www.freecodecamp.org/news/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1/"
+            target="_blank">How To Recreate Medium's Article Layout With CSS Grid</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">6min</span>
+        </span>
+        <span class="posts__category">Beginner</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/" target="_blank">Best Practices
+            With CSS Grid Layout</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">16min</span>
+        </span>
+        <span class="posts__category">Intermediate</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://css-tricks.com/things-ive-learned-css-grid-layout/" target="_blank">Things I've Learned About
+            CSS Grid Layout</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">15min</span>
+        </span>
+        <span class="posts__category">Intermediate</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://gridbyexample.com/examples/" target="_blank">Usage Examples Of CSS Grid Layout</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">5min</span>
+        </span>
+        <span class="posts__category">Intermediate</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://www.sitepoint.com/master-modern-css-projects/" target="_blank">Building A Trello Layout With
+            CSS Grid And Flexbox</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">5min</span>
+        </span>
+        <span class="posts__category">Intermediate</span>
+      </div>
+      <div class="posts__list-item">
+        <h4>
+          <a href="https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/" target="_blank">CSS Grid
+            Gotchas And Stumbling Blocks</a>
+        </h4>
+        <span class="posts__reading-time">
+          <span class="posts__clock">
+            <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+            aria-hidden="true">14min</span>
+        </span>
+        <span class="posts__category">Advanced</span>
+      </div>
+    </article>
+    <article class="posts__post posts__five">
+      <div class="posts__img posts__img-one">
+        <a href="https://chrome.google.com/webstore/detail/design-grid-overlay/kmaadknbpdklpcommafmcboghdlopmbi?hl=en"
+          target="_blank" class="posts__img-link"></a>
+      </div>
+      <h4 class="posts__title">
+        <a href="https://chrome.google.com/webstore/detail/design-grid-overlay/kmaadknbpdklpcommafmcboghdlopmbi?hl=en"
+          target="_blank">Design Grid Overlay</a>
+      </h4>
+      <p>
+        A Chrome extension for displaying grid overlays on web pages.
+      </p>
+      <span class="posts__reading-time">
+        <span class="posts__clock">
+          <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+          aria-hidden="true">1min</span>
+      </span>
+      <span class="posts__category">Beginner</span>
+    </article>
+    <article class="posts__post posts__six">
+      <div class="posts__img posts__img-two">
+        <a href="https://github.com/AllThingsSmitty/css-protips#readme" target="_blank" class="posts__img-link"></a>
+      </div>
+      <h4 class="posts__title">
+        <a href="https://github.com/AllThingsSmitty/css-protips#readme" target="_blank">CSS Protips Github Repo</a>
+      </h4>
+      <p>
+        A collection of tips to help take your CSS skills to the next level.
+        Star this repo!
+      </p>
+      <span class="posts__reading-time">
+        <span class="posts__clock">
+          <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+          aria-hidden="true">1min</span>
+      </span>
+      <span class="posts__category">Beginner</span>
+    </article>
+    <article class="posts__post posts__seven">
+      <div class="posts__img posts__img-three">
+        <a href="https://github.com/awesome-css-group/awesome-css#twitter-satellite" target="_blank"
+          class="posts__img-link"></a>
+      </div>
+      <h4 class="posts__title">
+        <a href="https://github.com/awesome-css-group/awesome-css#twitter-satellite" target="_blank">CSS Community On
+          Twitter</a>
+      </h4>
+      <p>
+        A list of people on Twitter who are active in the CSS community.
+      </p>
+      <span class="posts__reading-time">
+        <span class="posts__clock">
+          <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+          aria-hidden="true">1min</span>
+      </span>
+      <span class="posts__category">Beginner</span>
+    </article>
+    <article class="posts__post posts__eight">
+      <div class="posts__img posts__img-four">
+        <a href="https://cssgridgarden.com/" target="_blank" class="posts__img-link"></a>
+      </div>
+      <h4 class="posts__title">
+        <a href="https://cssgridgarden.com/" target="_blank">Play CSS Grid Garden</a>
+      </h4>
+      <p>
+        A fun game where you create CSS Grid layouts to grow your carrot
+        garden.
+      </p>
+      <span class="posts__reading-time">
+        <span class="posts__clock">
+          <img src="./images/clock.svg" alt="A clock icon" style="width: 0.75em;" /></span><span
+          aria-hidden="true">1min</span>
+      </span>
+      <span class="posts__category">Beginner</span>
+    </article>
+  </main>
+
+  <!-- DO NOT ALTER CODE BELOW THIS LINE-->
+  <section class="grid">
+    <div class="grid__col grid__col1">1</div>
+    <div class="grid__col grid__col2">2</div>
+    <div class="grid__col grid__col3">3</div>
+    <div class="grid__col grid__col4">4</div>
+    <div class="grid__col grid__col5">5</div>
+  </section>
+
+  <section class="grid-controls">
+    <label for="checkbox">
+      <input type="checkbox" id="checkbox" onclick="(toggleGrid())" checked />
+    </label>
+    <em>Toggle Column Overlay</em>
+    <br />
+    <label for="checkbox">
+      <input type="checkbox" id="checkbox" onclick="(toggleBorders())" />
+    </label>
+    <em>Toggle Block Borders</em>
+  </section>
+
+  <footer>
+    <em>
+      Inspired by the
+      <a href="https://www.bbc.co.uk/news" target="_blank" class="footer__credits">BBC News homepage</a>
+    </em>
+  </footer>
+  <script>
+    const grid = document.querySelector(".grid");
+    const posts = document.querySelector(".posts");
+    const sections = document.querySelectorAll(".posts__post");
+
+    grid.style.width = posts.clientWidth + "px";
+    grid.style.left = `calc(50% - (${grid.style.width}/2))`;
+
+    const toggleGrid = () =>
+      grid.classList.toggle("grid-control-wrapper__overlay-hidden");
+    //Function to toggle colourful borders on <article> blocks
+    const toggleBorders = () => {
+      for (let i = 0; i < sections.length; i++) {
+        sections[i].classList.toggle("posts__post-borders");
+      }
+    };
+    //Function to keep the width of the grid overlay columns
+    //in sync with the content of <main>
+    const resizeGrid = () => {
+      grid.style.width = posts.clientWidth + "px";
+      grid.style.left = `calc(50% - (${grid.style.width}/2))`;
+    };
+
+    window.onresize = resizeGrid;
+  </script>
+</body>
+
+</html>

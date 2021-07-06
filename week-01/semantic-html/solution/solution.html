@@ -1,0 +1,99 @@
+<!-- Using modern HTML 5 -->
+<!DOCTYPE html>
+
+<!-- Set language to English -->
+<html lang="en">
+
+<!-- Head is for meta-data, external assets, etc -->
+
+<head>
+  <!-- UTF-8 Character set includes all characters we need -->
+  <meta charset="UTF-8">
+  <!-- X-UA-Compatible tag allows web authors to choose what version of Internet Explorer the page should be rendered as -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Set page width to viewport size and set initial zoom level to 1.0 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Link to external stylesheet / rel informs browser that it is a stylesheet-->
+  <link rel="stylesheet" href="solution.css">
+  <!-- Page title - show on tabbed browsers, first line read by page readers and a reference in bookmarking-->
+  <title>My Messy Site 🐱‍👤</title>
+</head>
+
+<body>
+  <!-- Header of page -->
+  <header>
+    <!-- Main heading of page - each page needs only one -->
+    <h1>My Messy Site</h1>
+    <!-- Page description in paragraph tag - no need for heading tag -->
+    <p>I Love Coding</p>
+  </header>
+
+  <!-- The main content area consists of content that is directly related to or expands upon the central topic of a document, -->
+  <main>
+    <!-- Image of cat with alt tag for screenreaders or if image fails to load -->
+    <img src="https://media.giphy.com/media/Hcw7rjsIsHcmk/giphy.gif" alt='Keyboard Cat playing sweet music' />
+
+    <!-- First section of the page -->
+    <section>
+      <!-- Sectons should always have headings with very few exceptions -->
+      <h2>First Section Header</h2>
+      <!-- Paragraph of text inside p tag -->
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+        mollit anim id est laborum.
+      </p>
+
+    </section>
+
+    <!-- Second section of the page -->
+    <section>
+      <!-- Sectons should always have headings with very few exceptions -->
+      <h2>Second Section Header</h2>
+      <!-- Paragraph of text inside p tag -->
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua sunt in culpa qui
+        officia deserunt mollit anim id est laborum.
+      </p>
+
+    </section>
+
+    <section>
+      <h2>Login</h2>
+      <!-- Form with inputs inside with labels to explain what to enter -->
+      <form action="/" method="post">
+        <input id="first-name" type="text" placeholder="First Name" />
+
+        <input id="last-name" type="text" placeholder="Last Name" />
+
+        <input id="email" type="email" placeholder="Email" />
+
+
+        <input id="password" type="password" placeholder="Password" />
+        <!-- Button submits the input fields inside the form -->
+        <button type="button">Submit</button>
+      </form>
+    </section>
+
+
+    <!-- Use blockquote for quotations -->
+    <blockquote>"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      <!-- The <cite> HTML element is used to describe a reference to a cited creative work -->
+      <cite>by John Smith, 2017</cite>
+    </blockquote>
+
+  </main>
+
+  <!-- Footer to denote footer of page -->
+  <footer>
+    <div>Copyright John 2015. All rights reserved</div>
+  </footer>
+
+</body>
+
+</html>

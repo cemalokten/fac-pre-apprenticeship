@@ -1,0 +1,85 @@
+html {
+	font-family: 'Lab Mono Web';
+	color: white;
+	margin: 10vw;
+	background-color: rgb(69, 0, 197);
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	--margin: 1vw;
+}
+
+@font-face {
+	font-family: 'Lab Mono Web';
+	src: url('labmono-regular-web.woff2') format('woff2'), url('labmono-regular-web.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+main {
+	font-size: 1.5vw;
+	line-height: 2.1vw;
+}
+
+section {
+	margin-bottom: 2.5vw;
+}
+
+h1,
+h2 {
+	font-weight: normal;
+	font-style: normal;
+	margin-bottom: var(--margin);
+}
+
+h1 {
+	font-size: 2.5vw;
+}
+
+h2 {
+	font-size: 1.8vw;
+}
+
+h2::before {
+	content: "→ ";
+}
+
+input {
+	font-family: 'Lab Mono Web';
+	background-color: rgb(114, 75, 255);
+	color: white;
+	height: 28px;
+	padding: 5px;
+	border: none;
+	border-radius: 10px;
+}
+
+button {
+	font-family: 'Lab Mono Web';
+	background-color: rgb(25, 0, 167);
+	color: white;
+	height: 28px;
+	min-width: 100px;
+	padding: 5px;
+	border: none;
+	border-radius: 10px;
+}
+
+blockquote,
+form {
+	margin-bottom: var(--margin);
+}
+
+blockquote {
+	font-size: 1.2vw;
+}
+
+img {
+	margin: 2vw 0vw 2vw 0vw;
+}
