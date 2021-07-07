@@ -1,0 +1,107 @@
+:root {
+  /* Colours */
+  --primary-colour: hsl(242, 79%, 53%);
+  --secondary-colour: hsl(224, 27%, 45%);
+  --font-colour: hsl(0, 0%, 26%);
+  --bg-colour: hsl(46, 100%, 89%);
+}
+
+.dark {
+  /* Dark mode colours */
+  --primary-colour: hsl(242, 79%, 77%);
+  --secondary-colour: hsl(224, 20%, 59%);
+  --font-colour: hsl(240, 100%, 94%);
+  --bg-colour: hsl(240, 25%, 12%);
+}
+
+/* Then, we can reference these variables in our stylesheets, like so: */
+
+img {
+  max-width: 700px;
+}
+
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-color: var(--bg-colour);
+  color: var(--font-colour);
+  height: 100%;
+  margin: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: "Gothic A1", sans-serif;
+}
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+  color: var(--secondary-colour);
+}
+
+a {
+  color: var(--primary-colour);
+}
+
+nav,
+section {
+  padding: 1.5em;
+}
+
+/*Toggle switch styling - do not edit*/
+
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+}
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display: none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+  width: 60px;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: 0.4s;
+  width: 26px;
+}
+
+input:checked + .slider {
+  background-color: #66bb6a;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Dark Mode Workshop</title>
+
+    <link rel="stylesheet" media="screen" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=PT+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Gothic+A1&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Using CSS variables to implement dark mode on a website."
+    />
+  </head>
+  <body class="dark">
+    <nav>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+        <em>Toggle Dark Mode!</em>
+      </div>
+    </nav>
+    <section>
+      <article class="post">
+        <h1>Building Your Color Palette</h1>
+        <em>
+          Excerpted from Steve Schoger and Adam Wathan's book and video series,
+          <a href="https://refactoringui.com/book" target="_blank"
+            >Refactoring UI</a
+          >
+        </em>
+        <p class="post-meta">Circa 2014 <span>by</span> Ian Daniel Stewart</p>
+
+        <p>
+          Ever used one of those fancy color palette generators? You know, the
+          ones where you pick a starting color, tweak some options that probably
+          include some musical jargon like "triad" or "major fourth", and are
+          then bestowed the five perfect color swatches you should use to build
+          your website?
+        </p>
+
+        <img
+          src="https://refactoring-ui.nyc3.cdn.digitaloceanspaces.com/previews/whats-in-a-color-palette-01.png"
+        />
+
+        <p>
+          This calculated and scientific approach to picking the perfect color
+          scheme is extremely seductive, but not very useful.
+        </p>
+        <a href="https://refactoringui.com/book" target="_blank">Read More</a>
+      </article>
+    </section>
+    <script>
+      const toggleSwitch = document.querySelector(
+        '.theme-switch input[type="checkbox"]'
+      );
+
+      function switchTheme(e) {
+        if (e.target.checked) {
+          // Write some code that will switch the colour
+          // variable values to create a dark mode
+        } else {
+          // Write some code that will revert the colour
+          // variables back to their original values
+        }
+      }
+
+      toggleSwitch.addEventListener("change", switchTheme, false);
+    </script>
+  </body>
+</html>
