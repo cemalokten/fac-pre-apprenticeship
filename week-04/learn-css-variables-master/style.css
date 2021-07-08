@@ -7,103 +7,110 @@ background colour
 /* EDIT CODE BELOW THIS LINE! */
 
 :root {
-  /* variables go here */
+	/* variables go here */
+	--bg-colour: rgba(234, 242, 255, 0.966);
+	--font-colour: rgb(0, 0, 0);
+	--primary-colour: rgb(68, 0, 255);
+	--secondary-colour: rgb(96, 41, 184);
 }
 
 /* Stretch challenge */
 
 .dark {
-  /* variables go here */
+	--bg-colour: rgba(42, 0, 110, 0.966);
+	--font-colour: rgb(255, 255, 255);
+	--primary-colour: rgb(68, 0, 255);
+	--secondary-colour: rgb(96, 41, 184);
 }
 
 /* DO NOT EDIT CODE BELOW THIS LINE! */
 
 img {
-  max-width: 700px;
+	max-width: 700px;
 }
 
 html {
-  height: 100%;
-  margin: 0;
+	height: 100%;
+	margin: 0;
 }
 
 body {
-  background-color: var(--bg-colour);
-  color: var(--font-colour);
-  height: 100%;
-  margin: 0;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  font-family: "Gothic A1", sans-serif;
+	background-color: var(--bg-colour);
+	color: var(--font-colour);
+	height: 100%;
+	margin: 0;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	font-family: "Gothic A1", sans-serif;
 }
 
 h1 {
-  font-family: "PT Sans", sans-serif;
-  color: var(--secondary-colour);
+	font-family: "PT Sans", sans-serif;
+	color: var(--secondary-colour);
 }
 
 a {
-  color: var(--primary-colour);
+	color: var(--primary-colour);
 }
 
 nav,
 section {
-  padding: 1.5em;
+	padding: 1.5em;
 }
 
 /*Toggle switch styling*/
 
 .theme-switch-wrapper {
-  display: flex;
-  align-items: center;
+	display: flex;
+	align-items: center;
 }
 .theme-switch {
-  display: inline-block;
-  height: 34px;
-  position: relative;
-  width: 60px;
+	display: inline-block;
+	height: 34px;
+	position: relative;
+	width: 60px;
 }
 
 .theme-switch input {
-  display: none;
+	display: none;
 }
 
 .slider {
-  background-color: #ccc;
-  bottom: 0;
-  cursor: pointer;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  transition: 0.4s;
-  width: 60px;
+	background-color: #ccc;
+	bottom: 0;
+	cursor: pointer;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: 0.4s;
+	width: 60px;
 }
 
 .slider:before {
-  background-color: #fff;
-  bottom: 4px;
-  content: "";
-  height: 26px;
-  left: 4px;
-  position: absolute;
-  transition: 0.4s;
-  width: 26px;
+	background-color: #fff;
+	bottom: 4px;
+	content: "";
+	height: 26px;
+	left: 4px;
+	position: absolute;
+	transition: 0.4s;
+	width: 26px;
 }
 
 input:checked + .slider {
-  background-color: #66bb6a;
+	background-color: #66bb6a;
 }
 
 input:checked + .slider:before {
-  transform: translateX(26px);
+	transform: translateX(26px);
 }
 
 .slider.round {
-  border-radius: 34px;
+	border-radius: 34px;
 }
 
 .slider.round:before {
-  border-radius: 50%;
+	border-radius: 50%;
 }
