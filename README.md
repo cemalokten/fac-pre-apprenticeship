@@ -57,16 +57,17 @@ Good luck! 🙃
 - [ ] Research this weeks guest employer (Tom Dignan of Apolitical) [THUR]
 - [x] Continue using twitter everyday [ONGOING]
 
+
 ### 🧪 Projects Completed
 
-<!-- ## 💎 Week Three 
+# 💎 Week Four 
 
 ### 📝 To Do
 
 - [ ] Something
 
 ### 🧪 Projects Completed
-  -->
+ 
 
  
 
