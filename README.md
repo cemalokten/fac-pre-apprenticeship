@@ -44,19 +44,17 @@ Good luck! 🙃
 
 ### 📝 To Do
 
-- [x] Work through the **CSS Layouts workshop** [TUE]
-- [ ] Build a **projects gallery** (over two weeks) [ONGOING]
-- [x] Work through **Grid Garden** [TUE]
-- [x] Recreate a BBC News style homepage using **CSS Grid** [TUE]
-- [x] Learn about **ARIA** Labels [TUE]
-- [x] Commit something every day to GitHub [ONGOING]
-- [ ] Complete **Playing with CSS Variables** (JS30) [WED]
-- [ ] Complete **Array Cardio 1** (JS30) [WED]
-- [x] Continue Execute program (Modern JavaScript and Arrays) [ONGOING]
-- [ ] Prepare another coding challenge [THUR]
-- [ ] Research this weeks guest employer (Tom Dignan of Apolitical) [THUR]
-- [x] Continue using twitter everyday [ONGOING]
-
+- [x] Work through the **CSS Layouts workshop**
+- [ ] Build a **projects gallery** (over two weeks)
+- [x] Work through **Grid Garden**
+- [x] Recreate a BBC News style homepage using **CSS Grid**
+- [x] Learn about **ARIA** Labels
+- [x] Commit something every day to GitHub
+- [ ] Complete **Playing with CSS Variables** (JS30)
+- [ ] Complete **Array Cardio 1** (JS30)
+- [x] Continue Execute program (Modern JavaScript and Arrays)
+- [x] Prepare another coding challenge
+- [x] Continue using twitter everyday
 
 ### 🧪 Projects Completed
 
@@ -64,7 +62,19 @@ Good luck! 🙃
 
 ### 📝 To Do
 
-- [ ] Something
+- [ ] Learn about:
+- - [ ] CSS Architecture
+- - [ ] Responsive Design
+- - [ ] Advanced CSS
+- [ ] Complete project gallery and refactor with reflections
+- [ ] Complete Array Cardio 2 (JS30)
+- [ ] Complete Flex Panels Image Gallery (JS30)
+- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined)
+- [ ] One Tweet + read and respond to FAC22 tweets
+- [ ] Create a coding reading challenge repo
+- [ ] Prepare a coding challenge
+- [ ] Work on Execute program daily
+- [ ] Work on Khan Academy daily
 
 ### 🧪 Projects Completed
  
