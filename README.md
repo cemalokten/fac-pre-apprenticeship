@@ -73,7 +73,7 @@ Good luck! 🙃
 - [ ] One Tweet + read and respond to FAC22 tweets
 - [ ] Create a coding reading challenge repo
 - [ ] Prepare a coding challenge
-- [ ] Work on Execute program daily
+- [x] Work on Execute program daily
 - [ ] Work on Khan Academy daily
 
 ### 🧪 Projects Completed
