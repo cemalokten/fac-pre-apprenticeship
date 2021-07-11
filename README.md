@@ -75,6 +75,7 @@ Good luck! 🙃
 - [ ] Prepare a coding challenge
 - [x] Work on Execute program daily
 - [ ] Work on Khan Academy daily
+- [x] Commit something every day to GitHub
 
 ### 🧪 Projects Completed
  
