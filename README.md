@@ -67,10 +67,12 @@ Good luck! 🙃
 - - [ ] Responsive Design
 - - [ ] Advanced CSS
 - [ ] Complete project gallery and refactor with reflections
-- [ ] Complete Array Cardio 2 (JS30)
-- [ ] Complete Flex Panels Image Gallery (JS30)
+- [ ] Complete Array Cardio 2 (JS30) [MON]
+- [ ] Complete Flex Panels Image Gallery (JS30) [MON]
+- [ ] Complete **Playing with CSS Variables** (JS30) [MON]
+- [ ] Complete **Array Cardio 1** (JS30) [MON]
 - [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined)
-- [ ] One Tweet + read and respond to FAC22 tweets
+- [x] One Tweet + read and respond to FAC22 tweets
 - [ ] Create a coding reading challenge repo
 - [ ] Prepare a coding challenge
 - [x] Work on Execute program daily
