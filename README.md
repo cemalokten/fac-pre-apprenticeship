@@ -51,7 +51,7 @@ Good luck! 🙃
 - [x] Learn about **ARIA** Labels
 - [x] Commit something every day to GitHub
 - [ ] Complete **Playing with CSS Variables** (JS30)
-- [ ] Complete **Array Cardio 1** (JS30)
+- [x] Complete **Array Cardio 1** (JS30)
 - [x] Continue Execute program (Modern JavaScript and Arrays)
 - [x] Prepare another coding challenge
 - [x] Continue using twitter everyday
@@ -67,12 +67,10 @@ Good luck! 🙃
 - - [ ] Responsive Design
 - - [ ] Advanced CSS
 - [ ] Complete project gallery and refactor with reflections
-- [ ] Complete Array Cardio 2 (JS30) [MON]
-- [ ] Complete Flex Panels Image Gallery (JS30) [MON]
-- [ ] Complete **Playing with CSS Variables** (JS30) [MON]
-- [ ] Complete **Array Cardio 1** (JS30) [MON]
-- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined)
-- [x] One Tweet + read and respond to FAC22 tweets
+- [x] Complete **Array Cardio 2** (JS30) [MON]
+- [ ] Complete **Flex Panels Image Gallery** (JS30) [MON]
+- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) [THUR]
+- [x] One Tweet + read and respond to FAC22 tweets [ONGOING]
 - [ ] Create a coding reading challenge repo
 - [ ] Prepare a coding challenge
 - [x] Work on Execute program daily
