@@ -50,13 +50,14 @@ Good luck! 🙃
 - [x] Recreate a BBC News style homepage using **CSS Grid**
 - [x] Learn about **ARIA** Labels
 - [x] Commit something every day to GitHub
-- [ ] Complete **Playing with CSS Variables** (JS30)
+- [x] Complete **Playing with CSS Variables** (JS30)
 - [x] Complete **Array Cardio 1** (JS30)
 - [x] Continue Execute program (Modern JavaScript and Arrays)
 - [x] Prepare another coding challenge
 - [x] Continue using twitter everyday
 
 ### 🧪 Projects Completed
+- [Font Style Changer 🎹 [Playing with CSS Variables]](https://cemalokten.github.io/font-style-changer/)
 
 # 💎 Week Four 
 
@@ -67,12 +68,12 @@ Good luck! 🙃
 - - [ ] Responsive Design
 - - [ ] Advanced CSS
 - [ ] Complete project gallery and refactor with reflections
-- [x] Complete **Array Cardio 2** (JS30) [MON]
-- [ ] Complete **Flex Panels Image Gallery** (JS30) [MON]
+- [x] Complete **Array Cardio 2** (JS30)
+- [ ] Complete **Flex Panels Image Gallery** (JS30)[TUE]
 - [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) [THUR]
 - [x] One Tweet + read and respond to FAC22 tweets [ONGOING]
-- [ ] Create a coding reading challenge repo
-- [ ] Prepare a coding challenge
+- [ ] Create a coding reading challenge repo [THUR]
+- [ ] Prepare a coding challenge [THUR]
 - [x] Work on Execute program daily
 - [ ] Work on Khan Academy daily
 - [x] Commit something every day to GitHub
