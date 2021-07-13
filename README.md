@@ -63,20 +63,20 @@ Good luck! 🙃
 
 ### 📝 To Do
 
-- [ ] Learn about:
+- [ ] Learn about: `TUE`
 - - [ ] CSS Architecture
 - - [ ] Responsive Design
-- - [ ] Advanced CSS
-- [ ] Complete project gallery and refactor with reflections
-- [x] Complete **Array Cardio 2** (JS30)
-- [ ] Complete **Flex Panels Image Gallery** (JS30)[TUE]
-- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) [THUR]
-- [x] One Tweet + read and respond to FAC22 tweets [ONGOING]
-- [ ] Create a coding reading challenge repo [THUR]
-- [ ] Prepare a coding challenge [THUR]
-- [x] Work on Execute program daily
-- [ ] Work on Khan Academy daily
-- [x] Commit something every day to GitHub
+- - [ ] Advanced CSS 
+- [x] Complete **Array Cardio 2** (JS30) `TUE`
+- [x] Complete **Flex Panels Image Gallery** (JS30) `TUE`
+- [ ] Complete project gallery and refactor with reflections `WED`
+- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) `THUR`
+- [ ] Create a coding reading challenge repo `THUR`
+- [ ] Prepare a coding challenge `THUR`
+- [x] Work on Execute program daily `ONGOING`
+- [ ] Work on Khan Academy daily `ONGOING`
+- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
 
 ### 🧪 Projects Completed
  
