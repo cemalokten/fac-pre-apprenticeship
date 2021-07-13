@@ -28,15 +28,11 @@ A repository of projects created over the 12 week Founders and Coders pre-appren
 
 ### 🚀 Coding Challenges (for..of)
 
-The following coding challenges should be completed without using `.map()` `.filter()` `.reduce()` `.forEach()` and  `.find()`
+The following coding challenges should be completed without using `.map()` `.filter()` `.reduce()` `.forEach()` and `.find()`
 
-1 - Write a function that `filters` only the counties which include *'shire'* into a new array.
+Write a function that `filters` only the counties which include *'shire'* into a new array.
 
 `let counties = ['Avon', 'Bedfordshire', 'Berkshire', 'Buckinghamshire', 'Cambridgeshire', 'Cheshire', 'Cleveland', 'Cornwall', 'Cumbria', 'Derbyshire', 'Devon', 'Dorset', 'Durham', 'East-Sussex', 'Essex', 'Gloucestershire', 'Hampshire', 'Herefordshire', 'Hertfordshire', 'Isle-of-Wight', 'Kent', 'Lancashire', 'Leicestershire', 'Lincolnshire', 'London', 'Merseyside', 'Middlesex', 'Norfolk', 'Northamptonshire', 'Northumberland', 'North-Humberside', 'North-Yorkshire', 'Nottinghamshire', 'Oxfordshire', 'Rutland', 'Shropshire', 'Somerset', 'South-Humberside', 'South-Yorkshire', 'Staffordshire', 'Suffolk', 'Surrey', 'Tyne-and-Wear', 'Warwickshire', 'West-Midlands', 'West-Sussex', 'West-Yorkshire', 'Wiltshire', 'Worcestershire'];`
-
-2 - I went to the supermarket and bought some fruit 🍊, I recorded the items and their cost in an array. Using a `for..of` loop return the total cost, in the following format : `£10,00'
-
-`let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23'], ["Peach", '£6.02'], ["Pineaple", '£5.00']];`
 
 Good luck! 🙃
 
@@ -59,7 +55,16 @@ Good luck! 🙃
 ### 🧪 Projects Completed
 - [Font Style Changer 🎹 [Playing with CSS Variables]](https://cemalokten.github.io/font-style-changer/)
 
-# 💎 Week Four 
+### 🚀 Coding Challenges (for..of) Continued...
+The following coding challenges should be completed without using `.map()` `.filter()` `.reduce()` `.forEach()` and `.find()`
+
+I went to the supermarket and bought some fruit 🍊, I recorded the items and their cost in an array. Using a `for..of` loop return the total cost, in the following format : `£10,00'
+
+`let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23'], ["Peach", '£6.02'], ["Pineaple", '£5.00']];`
+
+Good luck! 🙃
+
+# 🛰 Week Four 
 
 ### 📝 To Do
 
