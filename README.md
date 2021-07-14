@@ -68,6 +68,28 @@ Good luck! 🙃
 
 ### 📝 To Do
 
+- [X] Learn about: [Read Notes Here](/week-04/week-4-tech-spikes.md)
+- - [X] CSS Architecture
+- - [X] Responsive Design
+- - [X] Advanced CSS 
+- [x] Complete **Array Cardio 2** (JS30) `TUE`
+- [x] Complete **Flex Panels Image Gallery** (JS30) `TUE`
+- [ ] Complete project gallery and refactor with reflections `WED`
+- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) `THUR`
+- [ ] Create a coding reading challenge repo `THUR`
+- [ ] Prepare a coding challenge `THUR`
+- [x] Work on Execute program daily `ONGOING`
+- [ ] Work on Khan Academy daily `ONGOING`
+- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
+
+### 🧪 Projects Completed
+
+
+<!-- 🔮🧱 Week Five
+
+### 📝 To Do
+
 - [ ] Learn about: `TUE`
 - - [ ] CSS Architecture
 - - [ ] Responsive Design
@@ -83,8 +105,8 @@ Good luck! 🙃
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-### 🧪 Projects Completed
- 
+### 🧪 Projects Completed -->
+
 
  
 
