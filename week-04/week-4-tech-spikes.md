@@ -124,7 +124,7 @@
     - Recycle and reuse functionality
     - Rapidly construct UI's
 
-# Responsive design
+# 📫 Responsive design
 
 ## Questions to consider
 
@@ -158,7 +158,7 @@
 - Code for larger screens is usually more complicated than the codes for smaller screens. This is why coding mobile first helps simplify your code.
 
 
-# Advanced CSS
+# 🖼 Advanced CSS
 
 ## Questions to consider
 
