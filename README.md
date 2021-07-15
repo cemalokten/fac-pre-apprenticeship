@@ -2,7 +2,7 @@
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
-# 🏀 Week One 
+## 🏀 Week One 
 
 ### 📝 To Do
 
@@ -32,11 +32,13 @@ The following coding challenges should be completed without using `.map()` `.fil
 
 Write a function that `filters` only the counties which include *'shire'* into a new array.
 
-`let counties = ['Avon', 'Bedfordshire', 'Berkshire', 'Buckinghamshire', 'Cambridgeshire', 'Cheshire', 'Cleveland', 'Cornwall', 'Cumbria', 'Derbyshire', 'Devon', 'Dorset', 'Durham', 'East-Sussex', 'Essex', 'Gloucestershire', 'Hampshire', 'Herefordshire', 'Hertfordshire', 'Isle-of-Wight', 'Kent', 'Lancashire', 'Leicestershire', 'Lincolnshire', 'London', 'Merseyside', 'Middlesex', 'Norfolk', 'Northamptonshire', 'Northumberland', 'North-Humberside', 'North-Yorkshire', 'Nottinghamshire', 'Oxfordshire', 'Rutland', 'Shropshire', 'Somerset', 'South-Humberside', 'South-Yorkshire', 'Staffordshire', 'Suffolk', 'Surrey', 'Tyne-and-Wear', 'Warwickshire', 'West-Midlands', 'West-Sussex', 'West-Yorkshire', 'Wiltshire', 'Worcestershire'];`
+```js
+let counties = ['Avon', 'Bedfordshire', 'Berkshire', 'Buckinghamshire', 'Cambridgeshire', 'Cheshire', 'Cleveland', 'Cornwall', 'Cumbria', 'Derbyshire', 'Devon', 'Dorset', 'Durham', 'East-Sussex', 'Essex', 'Gloucestershire', 'Hampshire', 'Herefordshire', 'Hertfordshire', 'Isle-of-Wight', 'Kent', 'Lancashire', 'Leicestershire', 'Lincolnshire', 'London', 'Merseyside', 'Middlesex', 'Norfolk', 'Northamptonshire', 'Northumberland', 'North-Humberside', 'North-Yorkshire', 'Nottinghamshire', 'Oxfordshire', 'Rutland', 'Shropshire', 'Somerset', 'South-Humberside', 'South-Yorkshire', 'Staffordshire', 'Suffolk', 'Surrey', 'Tyne-and-Wear', 'Warwickshire', 'West-Midlands', 'West-Sussex', 'West-Yorkshire', 'Wiltshire', 'Worcestershire'];
+```
 
 Good luck! 🙃
 
-# 🌋 Week Three 
+## 🌋 Week Three 
 
 ### 📝 To Do
 
@@ -53,18 +55,20 @@ Good luck! 🙃
 - [x] Continue using twitter everyday
 
 ### 🧪 Projects Completed
-- [Font Style Changer 🎹 [Playing with CSS Variables]](https://cemalokten.github.io/font-style-changer/)
+- [Font Style Changer](https://cemalokten.github.io/font-style-changer/)
 
 ### 🚀 Coding Challenges (for..of) Continued...
 The following coding challenges should be completed without using `.map()` `.filter()` `.reduce()` `.forEach()` and `.find()`
 
 I went to the supermarket and bought some fruit 🍊, I recorded the items and their cost in an array. Using a `for..of` loop return the total cost, in the following format : `£10,00'
 
-`let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23'], ["Peach", '£6.02'], ["Pineaple", '£5.00']];`
+```js
+let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23'], ["Peach", '£6.02'], ["Pineaple", '£5.00']];
+```
 
 Good luck! 🙃
 
-# 🛰 Week Four 
+## 🛰 Week Four 
 
 ### 📝 To Do
 
@@ -74,36 +78,73 @@ Good luck! 🙃
 - - [X] Advanced CSS 
 - [x] Complete **Array Cardio 2** (JS30) `TUE`
 - [x] Complete **Flex Panels Image Gallery** (JS30) `TUE`
-- [ ] Complete project gallery and refactor with reflections `WED`
 - [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) `THUR`
 - [ ] Create a coding reading challenge repo `THUR`
-- [ ] Prepare a coding challenge `THUR`
+- [x] Prepare a coding challenge `THUR`
 - [x] Work on Execute program daily `ONGOING`
-- [ ] Work on Khan Academy daily `ONGOING`
+- [x] Work on Khan Academy daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-### 🧪 Projects Completed
+### 🚀 Coding Challenges
 
+#### **Challenge 1 - What does this function return?**
 
-<!-- 🔮🧱 Week Five
+```js
+function a() {
+	let b = 1;
+	if (true) {
+		let b = 2;
+	}
+	return b;
+}
+
+a();
+```
+
+#### **Challenge 2 - What does this function return?**
+
+```js
+const n = function(a) {
+	return Object.keys(a);
+};
+
+n([ 1, 2, '%', '!' ]);
+```
+
+#### **Challenge 3 - What does this function return?**
+
+```js
+const array = [];
+
+function r(arr) {
+	arr[3] = 'a';
+	const n = [];
+	for (const k in arr) {
+		n.push(k);
+	}
+	n;
+}
+
+r(array);
+```
+
+## 🔮 Week Five
 
 ### 📝 To Do
 
-- [ ] Learn about: `TUE`
-- - [ ] CSS Architecture
-- - [ ] Responsive Design
-- - [ ] Advanced CSS 
-- [x] Complete **Array Cardio 2** (JS30) `TUE`
-- [x] Complete **Flex Panels Image Gallery** (JS30) `TUE`
+- [ ] Install `Prettier` and `ESLint`
+- [ ] Work on Agency website project with Alex Lopez (@lopezelpesado)
+- [ ] Write tech spike on **Checking Code**
 - [ ] Complete project gallery and refactor with reflections `WED`
-- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) `THUR`
-- [ ] Create a coding reading challenge repo `THUR`
-- [ ] Prepare a coding challenge `THUR`
-- [x] Work on Execute program daily `ONGOING`
-- [ ] Work on Khan Academy daily `ONGOING`
-- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
-- [x] Commit something every day to GitHub `ONGOING`
+- [ ] **Hold Shift to Check Multiple Checkboxes** (JS30)
+- [ ] **Complete 14 Must Know Dev Tools Tricks** (JS30)
+- [ ] Work on **Execute program** daily `ONGOING`
+- [ ] Work on **Khan Academy** daily `ONGOING`
+- [ ] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [ ] Commit something every day to GitHub `ONGOING`
+
+<!-- ### 🚀 Coding Challenges
 
 ### 🧪 Projects Completed -->
 
