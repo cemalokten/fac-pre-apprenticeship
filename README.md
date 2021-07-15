@@ -78,8 +78,8 @@ Good luck! 🙃
 - - [X] Advanced CSS 
 - [x] Complete **Array Cardio 2** (JS30) `TUE`
 - [x] Complete **Flex Panels Image Gallery** (JS30) `TUE`
-- [ ] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) `THUR`
-- [ ] Create a coding reading challenge repo `THUR`
+- [x] Research this weeks guest employers (Tom Dignan of Apolitical) & (Siebe Van Dijck of This is Undefined) `THUR`
+- [x] Create a coding reading challenge repo `THUR`
 - [x] Prepare a coding challenge `THUR`
 - [x] Work on Execute program daily `ONGOING`
 - [x] Work on Khan Academy daily `ONGOING`
