@@ -133,22 +133,37 @@ r(array);
 
 ### 📝 To Do
 
-- [ ] Install `Prettier` and `ESLint`
-- [ ] Work on Agency website project with Alex Lopez (@lopezelpesado) `MON`
+- [x] Install `Prettier` and `ESLint`
+- [x] Work on Agency website project with Alex Lopez (@lopezelpesado) `MON`
 - [ ] Write tech spike on **Checking Code** `WED`
 - [ ] Complete project gallery and refactor with reflections `SUN`
 - [ ] **Hold Shift to Check Multiple Checkboxes** (JS30) `WED`
-- [ ] **Complete 14 Must Know Dev Tools Tricks** (JS30) `WED`
+- [x] **Complete 14 Must Know Dev Tools Tricks** (JS30) `WED`
 - [ ] Add to **Code Reading Repo** `THUR`
-- [ ] Work on **Execute program** daily `ONGOING`
+- [x] Work on **Execute program** daily `ONGOING`
 - [ ] Work on **Khan Academy** daily `ONGOING`
 - [ ] One Tweet + read and respond to FAC22 tweets `ONGOING`
-- [ ] Commit something every day to GitHub `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
+
+<!-- ### 🚀 Coding Challenges
+
+### 🧪 Projects Completed -->
+
+## 🥌 Week Six
+
+### 📝 To Do
+
+- [ ] Something
+- [x] Work on **Execute program** daily `ONGOING`
+- [ ] Work on **Khan Academy** daily `ONGOING`
+- [ ] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
 
 <!-- ### 🚀 Coding Challenges
 
 ### 🧪 Projects Completed -->
 
 
+ 
  
 
