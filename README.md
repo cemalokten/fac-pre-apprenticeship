@@ -148,7 +148,7 @@ r(array);
 ### 📝 To Do
 
 - [ ] Write CV
-- [ ] Edit LinkedIn Account (Connect with FAC members and Staff)
+- [x] Edit LinkedIn Account (Connect with FAC members and Staff)
 - [ ] Edit GitHub profile README.md
 - [ ] Complete project gallery / portfolio site
 - [ ] Write tech spike on **Checking Code** `WED`
