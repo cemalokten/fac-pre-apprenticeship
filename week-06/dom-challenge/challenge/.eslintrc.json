@@ -2,6 +2,7 @@
   "extends": ["airbnb-base/legacy", "prettier", "plugin:node/recommended"],
   "plugins": ["prettier",  "html"],
   "rules": {
+    "no-restricted-globals": ["error", "event", "fdescribe"],
     "prettier/prettier": ["off", { "singleQuote": true }],
     "no-unused-vars": "warn",
     "no-console": "off",

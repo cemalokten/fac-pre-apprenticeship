@@ -135,28 +135,29 @@ r(array);
 
 - [x] Install `Prettier` and `ESLint`
 - [x] Work on Agency website project with Alex Lopez (@lopezelpesado) `MON`
-- [ ] Write tech spike on **Checking Code** `WED`
-- [ ] Complete project gallery and refactor with reflections `SUN`
-- [ ] **Hold Shift to Check Multiple Checkboxes** (JS30) `WED`
+- [x] **Hold Shift to Check Multiple Checkboxes** (JS30) `WED`
 - [x] **Complete 14 Must Know Dev Tools Tricks** (JS30) `WED`
-- [ ] Add to **Code Reading Repo** `THUR`
+- [x] Add to **Code Reading Repo** `THUR`
 - [x] Work on **Execute program** daily `ONGOING`
-- [ ] Work on **Khan Academy** daily `ONGOING`
-- [ ] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] Work on **Khan Academy** daily `ONGOING`
+- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
-
-<!-- ### 🚀 Coding Challenges
-
-### 🧪 Projects Completed -->
 
 ## 🥌 Week Six
 
 ### 📝 To Do
 
-- [ ] Something
+- [ ] Write CV
+- [ ] Edit LinkedIn Account (Connect with FAC members and Staff)
+- [ ] Edit GitHub profile README.md
+- [ ] Complete project gallery / portfolio site
+- [ ] Write tech spike on **Checking Code** `WED`
+- [ ] Write tech spike on **Advanced DOM** `WED`
+- [ ] **Complete Object and Arrays - Reference VS Copy** (JS30) `WED`
+- [ ] **Complete Sorting Band Names without articles** (JS30) `WED`
 - [x] Work on **Execute program** daily `ONGOING`
 - [ ] Work on **Khan Academy** daily `ONGOING`
-- [ ] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
 <!-- ### 🚀 Coding Challenges
