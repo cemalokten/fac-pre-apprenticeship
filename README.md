@@ -134,6 +134,7 @@ r(array);
 ### 📝 To Do
 
 - [x] Install `Prettier` and `ESLint`
+- [x] Write tech spike on **Checking Code** `MON`
 - [x] Work on Agency website project with Alex Lopez (@lopezelpesado) `MON`
 - [x] **Hold Shift to Check Multiple Checkboxes** (JS30) `WED`
 - [x] **Complete 14 Must Know Dev Tools Tricks** (JS30) `WED`
@@ -147,14 +148,18 @@ r(array);
 
 ### 📝 To Do
 
-- [ ] Write CV
-- [x] Edit LinkedIn Account (Connect with FAC members and Staff)
-- [ ] Edit GitHub profile README.md
-- [ ] Complete project gallery / portfolio site
-- [ ] Write tech spike on **Checking Code** `WED`
-- [ ] Write tech spike on **Advanced DOM** `WED`
-- [ ] **Complete Object and Arrays - Reference VS Copy** (JS30) `WED`
-- [ ] **Complete Sorting Band Names without articles** (JS30) `WED`
+
+- [x] Work on Agency website project with Alex Lopez (@lopezelpesado) `MON`
+- [x] Write tech spike on **Advanced DOM** `MON`
+- [ ] **Complete Object and Arrays - Reference VS Copy** (JS30) `MON`
+- [ ] **Complete Sorting Band Names without articles** (JS30) `MON`
+
+- [ ] Complete project gallery / portfolio site `TUE`
+
+- [ ] Write CV `THUR`
+- [ ] Edit GitHub profile README.md `THUR`
+- [x] Edit LinkedIn Account (Connect with FAC members and Staff) `THUR`
+
 - [x] Work on **Execute program** daily `ONGOING`
 - [ ] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
@@ -167,4 +172,5 @@ r(array);
 
  
  
+
 
