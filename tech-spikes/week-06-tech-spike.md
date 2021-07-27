@@ -32,7 +32,7 @@ for (let i = 0; i < myNodeList.length; i++) {
 }
 ```
 
-### <template> Element
+### Template Element
 
 - The `<template>` HTML element is a mechanism for holding HTML that is not rendered immediately
 -  `<template>` elements can be used in conjunction with JS
