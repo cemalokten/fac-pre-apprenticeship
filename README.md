@@ -2,6 +2,14 @@
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
+## 📔 Contents
+
+- [🏀 Week One](#-week-one)
+- [🌋 Week Three](#-week-three)
+- [🛰 Week Four](#-week-four)
+- [🔮 Week Five](#-week-six)
+- [🥌 Week Six](#-week-six)
+
 ## 🏀 Week One 
 
 ### 📝 To Do
