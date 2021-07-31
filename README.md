@@ -156,13 +156,12 @@ r(array);
 
 ### 📝 To Do
 
-
 - [x] Work on Agency website project with Alex Lopez (@lopezelpesado) `MON`
 - [x] Write tech spike on **Advanced DOM** `MON`
 - [x] Start project gallery / portfolio site `TUE`
 - [x] **Complete Object and Arrays - Reference VS Copy** (JS30) `WED`
 - [x] **Complete Sorting Band Names without articles** (JS30) `WED`
-- [ ] Write CV `THUR`
+- [x] Write CV `THUR`
 - [ ] Edit GitHub profile README.md `THUR`
 - [x] Edit LinkedIn Account (Connect with FAC members and Staff) `THUR`
 - [x] Work on **Execute program** daily `ONGOING`
@@ -171,6 +170,21 @@ r(array);
 - [x] Commit something every day to GitHub `ONGOING`
 
 <!-- ### 🚀 Coding Challenges
+
+```js
+function* strings() {
+  let s = 'a';
+  yield s;
+  s += 'b';
+  yield s;
+  s += 'c';
+  yield s;
+}
+Array.from(strings());
+
+Result:
+
+['a', 'ab', 'abc']```
 
 ### 🧪 Projects Completed -->
 
