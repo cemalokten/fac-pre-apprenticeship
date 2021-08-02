@@ -190,18 +190,16 @@ Result:
 ### 🧪 Projects Completed
 - [kindCode](https://github.com/fac22/kindcode)
 
-## 🥌 Week Seven
+## 💣 Week Seven
 
 ### 📝 To Do
 
-- [x] Discuss and setup API project with  Anna Cunnane (@moggach) `MON`
-- [x] Write tech spike on **Advanced DOM** `MON`
-- [x] Start project gallery / portfolio site `TUE`
-- [x] **Complete Object and Arrays - Reference VS Copy** (JS30) `WED`
-- [x] **Complete Sorting Band Names without articles** (JS30) `WED`
-- [x] Write CV `THUR`
-- [x] Edit GitHub profile README.md `THUR`
-- [x] Edit LinkedIn Account (Connect with FAC members and Staff) `THUR`
+- [ ] Discuss and setup API project REPO with Anna Cunnane (@moggach) `MON`
+- [x] Complete **Learn Fetch & Promises** workshop [link](https://learn.foundersandcoders.com/workshops/learn-fetch/) `MON`
+- [x] Complete **Promises** workshop [link](https://learn.foundersandcoders.com/workshops/promise-practice/) `MON`
+- [ ] Finish Portfolio site `TUE`
+- [ ] Start **Matters** site `WED`
+- [ ] Edit CV `THUR`
 - [x] Work on **Execute program** daily `ONGOING`
 - [-] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
