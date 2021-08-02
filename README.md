@@ -169,7 +169,7 @@ r(array);
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-<!-- ### 🚀 Coding Challenges
+### 🚀 Coding Challenges
 
 ```js
 function* strings() {
@@ -184,12 +184,25 @@ Array.from(strings());
 
 Result:
 
-['a', 'ab', 'abc']```
+['a', 'ab', 'abc']
+```
 
-### 🧪 Projects Completed -->
+### 🧪 Projects Completed
+- [kindCode](https://github.com/fac22/kindcode)
 
+## 🥌 Week Seven
 
- 
- 
+### 📝 To Do
 
-
+- [x] Discuss and setup API project with  Anna Cunnane (@moggach) `MON`
+- [x] Write tech spike on **Advanced DOM** `MON`
+- [x] Start project gallery / portfolio site `TUE`
+- [x] **Complete Object and Arrays - Reference VS Copy** (JS30) `WED`
+- [x] **Complete Sorting Band Names without articles** (JS30) `WED`
+- [x] Write CV `THUR`
+- [x] Edit GitHub profile README.md `THUR`
+- [x] Edit LinkedIn Account (Connect with FAC members and Staff) `THUR`
+- [x] Work on **Execute program** daily `ONGOING`
+- [-] Work on **Khan Academy** daily `ONGOING`
+- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learn Fetch & Promises</title>
+</head>
+
+<body>
+  <h1>Open the console</h1>
+  <script>
+
+    //  PART ONE
+    fetch("https://pokeapi.co/api/v2/pokemon/pikachu")
+      .then((result) => result.json())
+      .then((data) => console.log(data))
+      .catch((error) => console.log('This is an error:' + error))
+
+    // PART TWO
+    // Function must be written with callback
+    const getUser = (user) => fetch(`https://api.github.com/users/${user}`).then((result) => result.json());
+
+    getUser('cemalokten')
+      .then((data) => console.log(data))
+      .catch((error) => console.log(error))
+
+    const getRepos = (user) => fetch(user.repos_url).then((response) => response.json());
+
+    getUser('cemalokten')
+      .then(getRepos)
+      .then((data) => console.log(data))
+      .catch((error) => console.log(error))
+
+    const cemal = getUser('cemalokten').then(getRepos)
+    const anna = getUser('moggach').then(getRepos)
+
+    Promise.all([cemal, anna])
+      .then((data) => console.log(data))
+      .catch((error) => console.log(error))
+
+  </script>
+</body>
+
+</html>
