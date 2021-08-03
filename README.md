@@ -204,3 +204,13 @@ Result:
 - [-] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
+
+## 🪐 OVERALL TO-DO 
+
+- [ ] Finish portfolio site
+- [ ] Finish API site (Space Is The Place)
+- [ ] Finosh API site (ISS Location Checker)
+- [ ] Finish execute program
+- [ ] Start Khan Academy algorithms course
+- [ ] Finish CV
+- [ ] Sort out email and domain
