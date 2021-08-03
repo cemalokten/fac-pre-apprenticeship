@@ -194,10 +194,10 @@ Result:
 
 ### 📝 To Do
 
-- [ ] Discuss and setup API project REPO with Anna Cunnane (@moggach) `MON`
+- [x] Discuss and setup API project REPO with Anna Cunnane (@moggach) `MON`
 - [x] Complete **Learn Fetch & Promises** workshop [link](https://learn.foundersandcoders.com/workshops/learn-fetch/) `MON`
 - [x] Complete **Promises** workshop [link](https://learn.foundersandcoders.com/workshops/promise-practice/) `MON`
-- [ ] Finish Portfolio site `TUE`
+- [ ] Finish Portfolio site `WED`
 - [ ] Start **Matters** site `WED`
 - [ ] Edit CV `THUR`
 - [x] Work on **Execute program** daily `ONGOING`
