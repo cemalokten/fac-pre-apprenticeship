@@ -187,6 +187,17 @@ Result:
 ['a', 'ab', 'abc']
 ```
 
+```
+const numbers = [
+  1,
+  ...[2, 3],
+  4,
+];
+numbers;
+```
+
+Result: `[1, 2, 3, 4]`
+
 ### 🧪 Projects Completed
 - [kindCode](https://github.com/fac22/kindcode)
 
