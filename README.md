@@ -9,6 +9,9 @@ A repository of projects created over the 12 week Founders and Coders pre-appren
 - [🛰 Week Four](#-week-four)
 - [🔮 Week Five](#-week-six)
 - [🥌 Week Six](#-week-six)
+- [💣 Week Seven](#-week-seven)
+- [🍉 OVERALL TO-DO ](#-overall-to-do)
+
 
 ## 🏀 Week One 
 
@@ -216,7 +219,7 @@ Result: `[1, 2, 3, 4]`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-## 🪐 OVERALL TO-DO 
+## 🍉 OVERALL TO-DO 
 
 - [ ] Finish portfolio site
 - [ ] Finish API site (Space Is The Place)
