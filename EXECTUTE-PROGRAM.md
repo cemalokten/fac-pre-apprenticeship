@@ -93,3 +93,37 @@ function pick(obj, keys) {
 }
 ```
 **GETTERS AND SETTERS**
+STORING NAME IN ARRAY
+```
+class User {
+  constructor(name) {
+    this.names = [name];
+  }
+  get name() { return this.names[this.names.length-1] }
+  set name(name) { this.names.push(name) }
+}
+```
+
+**MAP FUNCTION TO TRACK FOLLOWS**
+```
+class SocialGraph {
+  constructor() {
+    this.map = new Map();
+  }
+
+  addFollow(user1, user2) {
+    if (!this.map.has(user1)) {
+      this.map.set(user1, []);
+    }
+    this.map.get(user1).push(user2);
+  }
+
+  follows(user1, user2) {
+    if (!this.map.has(user1)) {
+      return false;
+    } else {
+      return this.map.get(user1).includes(user2);
+    }
+  }
+}
+```
