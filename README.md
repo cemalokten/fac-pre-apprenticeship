@@ -254,7 +254,7 @@ Result: `[1, 2, 3, 4]` -->
 ### 📝 To Do
 
 - [x] Prepare for interviews
-- [ ] Complete `Unit Testing` workshop [link](https://learn.foundersandcoders.com/workshops/learn-unit-testing/)
+- [x] Complete `Unit Testing` workshop [link](https://learn.foundersandcoders.com/workshops/learn-unit-testing/)
 - [x] Work on **Execute program** daily `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
