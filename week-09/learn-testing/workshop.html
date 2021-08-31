@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learn Testing</title>
+</head>
+
+<body>
+  <h1>Open the console</h1>
+
+  <script>
+    // the function we're testing
+    function square(x) {
+      return x * x;
+    }
+
+    // test
+    function test(fn, val, exp) {
+      if (fn(val) === exp) {
+        console.log(`%cPassed: expected ${exp} and returned ${fn(val)}`, 'background: green');
+      } else {
+        console.error(`%cFailed: expected ${exp} but returned ${fn(val)}`, 'background: red')
+      }
+    }
+
+    test(square, 2, 4)
+  </script>
+</body>
+
+</html>
