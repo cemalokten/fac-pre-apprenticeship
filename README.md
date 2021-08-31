@@ -12,10 +12,10 @@ A repository of projects created over the 12 week Founders and Coders pre-appren
 - [🔮 Week Five](#-week-six)
 - [🥌 Week Six](#-week-six)
 - [💣 Week Seven](#-week-seven)
-- [🛸 Week Eight](#-week-six)
-- [🌵 Week Nine](#-week-six)
-- [🔗 Week Ten](#-week-seven)
-- [🧫 Week Eleven](#-week-seven)
+- [🛸 Week Eight](#-week-eight)
+- [🌵 Week Nine](#-week-nine)
+- [🔗 Week Ten](#-week-teb)
+- [🧫 Week Eleven](#-week-eleven)
 
 
 
