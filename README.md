@@ -2,7 +2,7 @@
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
-<br>
+
 
 # 📔 Contents
 
@@ -18,7 +18,7 @@ A repository of projects created over the 12 week Founders and Coders pre-appren
 - [🧫 Week Eleven](#-week-seven)
 
 
-<br>
+
 
 # 🏀 Week One 
 
@@ -56,7 +56,7 @@ let counties = ['Avon', 'Bedfordshire', 'Berkshire', 'Buckinghamshire', 'Cambrid
 
 Good luck! 🙃 -->
 
-<br>
+
 
 # 🌋 Week Three 
 
@@ -88,7 +88,7 @@ let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23']
 
 Good luck! 🙃 -->
 
-<br>
+
 
 # 🛰️ Week Four 
 
@@ -150,7 +150,7 @@ function r(arr) {
 
 r(array);
 ``` -->
-<br>
+
 
 # 🔮 Week Five
 
@@ -167,7 +167,7 @@ r(array);
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-<br>
+
 
 # 🥌 Week Six
 
@@ -215,7 +215,7 @@ numbers;
 
 Result: `[1, 2, 3, 4]` -->
 
-<br>
+
 
 # 💣 Week Seven
 
@@ -231,7 +231,7 @@ Result: `[1, 2, 3, 4]` -->
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-<br>
+
 
 # 🛸 Week Eight
 
@@ -247,7 +247,7 @@ Result: `[1, 2, 3, 4]` -->
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-<br>
+
 
 # 🌵 Week Nine
 
@@ -259,7 +259,7 @@ Result: `[1, 2, 3, 4]` -->
 - [x] Commit something every day to GitHub `ONGOING`
 
 
-<br>
+
 
 # 🔗 Week Ten
 
@@ -269,7 +269,7 @@ Result: `[1, 2, 3, 4]` -->
 - [x] Work on **Execute program** daily `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-<br>
+
 
 # 🧫 Week Eleven
 
