@@ -17,7 +17,7 @@ function calculate(a, sign, b) {
       return "Please enter a valid sign (+, -, *, /)";
   }
 }
-
+// note
 const form = document.querySelector("form");
 const result = document.querySelector("#result");
 
