@@ -2,16 +2,24 @@
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
+<br>
+
 # 📔 Contents
 
 - [🏀 Week One](#-week-one)
 - [🌋 Week Three](#-week-three)
-- [🛰 Week Four](#-week-four)
+- [🛰️ Week Four](#-week-four)
 - [🔮 Week Five](#-week-six)
 - [🥌 Week Six](#-week-six)
 - [💣 Week Seven](#-week-seven)
-- [🍉 OVERALL TO-DO ](#-overall-to-do)
+- [🛸 Week Eight](#-week-six)
+- [🌵 Week Nine](#-week-six)
+- [🔗 Week Ten](#-week-seven)
+- [🧫 Week Eleven](#-week-seven)
+
+
 <br>
+
 # 🏀 Week One 
 
 ### 📝 To Do
@@ -31,7 +39,7 @@ A repository of projects created over the 12 week Founders and Coders pre-appren
 - [x] Get active on Twitter - [@cemalokten](https://twitter.com/cemalokten)
 - [ ] Create a script that generates 11 combos of 4 groups of 3 people. *Optional* 
 
-### 🧪 Projects Completed
+<!-- ### 🧪 Projects Completed
 - [Semantic HTML Challenge](https://github.com/cemalokten/fac-pre-apprenticeship/tree/main/week-01/semantic-html/solution)
 - [Keyboard Glockenspiel 🎹 [JavaScript Drum Kit project]](https://github.com/cemalokten/keyboard-glockenspiel)
 - [Bar Clock ⌚ [CSS and JavaScript Clock project]](https://github.com/cemalokten/bar-clock)
@@ -46,8 +54,10 @@ Write a function that `filters` only the counties which include *'shire'* into a
 let counties = ['Avon', 'Bedfordshire', 'Berkshire', 'Buckinghamshire', 'Cambridgeshire', 'Cheshire', 'Cleveland', 'Cornwall', 'Cumbria', 'Derbyshire', 'Devon', 'Dorset', 'Durham', 'East-Sussex', 'Essex', 'Gloucestershire', 'Hampshire', 'Herefordshire', 'Hertfordshire', 'Isle-of-Wight', 'Kent', 'Lancashire', 'Leicestershire', 'Lincolnshire', 'London', 'Merseyside', 'Middlesex', 'Norfolk', 'Northamptonshire', 'Northumberland', 'North-Humberside', 'North-Yorkshire', 'Nottinghamshire', 'Oxfordshire', 'Rutland', 'Shropshire', 'Somerset', 'South-Humberside', 'South-Yorkshire', 'Staffordshire', 'Suffolk', 'Surrey', 'Tyne-and-Wear', 'Warwickshire', 'West-Midlands', 'West-Sussex', 'West-Yorkshire', 'Wiltshire', 'Worcestershire'];
 ```
 
-Good luck! 🙃
+Good luck! 🙃 -->
+
 <br>
+
 # 🌋 Week Three 
 
 ### 📝 To Do
@@ -63,7 +73,7 @@ Good luck! 🙃
 - [x] Continue Execute program (Modern JavaScript and Arrays)
 - [x] Prepare another coding challenge
 - [x] Continue using twitter everyday
-
+<!-- 
 ### 🧪 Projects Completed
 - [Font Style Changer](https://cemalokten.github.io/font-style-changer/)
 
@@ -76,7 +86,7 @@ I went to the supermarket and bought some fruit 🍊, I recorded the items and t
 let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23'], ["Peach", '£6.02'], ["Pineaple", '£5.00']];
 ```
 
-Good luck! 🙃
+Good luck! 🙃 -->
 
 <br>
 
@@ -98,7 +108,7 @@ Good luck! 🙃
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-### 🚀 Coding Challenges
+<!-- ### 🚀 Coding Challenges
 
 #### **Challenge 1 - What does this function return?**
 
@@ -139,7 +149,7 @@ function r(arr) {
 }
 
 r(array);
-```
+``` -->
 <br>
 
 # 🔮 Week Five
@@ -175,7 +185,7 @@ r(array);
 - [-] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
-
+<!-- 
 ### 🚀 Coding Challenges
 
 ```js
@@ -203,7 +213,7 @@ const numbers = [
 numbers;
 ```
 
-Result: `[1, 2, 3, 4]`
+Result: `[1, 2, 3, 4]` -->
 
 <br>
 
@@ -220,7 +230,9 @@ Result: `[1, 2, 3, 4]`
 - [-] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
+
 <br>
+
 # 🛸 Week Eight
 
 ### 📝 To Do
