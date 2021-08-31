@@ -1,8 +1,8 @@
-## FAC Pre-apprenticeship Work 2021
+# 🦺 FAC Pre-apprenticeship Work 2021
 
 A repository of projects created over the 12 week Founders and Coders pre-apprenticeship 2021
 
-## 📔 Contents
+# 📔 Contents
 
 - [🏀 Week One](#-week-one)
 - [🌋 Week Three](#-week-three)
@@ -11,9 +11,8 @@ A repository of projects created over the 12 week Founders and Coders pre-appren
 - [🥌 Week Six](#-week-six)
 - [💣 Week Seven](#-week-seven)
 - [🍉 OVERALL TO-DO ](#-overall-to-do)
-
-
-## 🏀 Week One 
+<br>
+# 🏀 Week One 
 
 ### 📝 To Do
 
@@ -48,8 +47,8 @@ let counties = ['Avon', 'Bedfordshire', 'Berkshire', 'Buckinghamshire', 'Cambrid
 ```
 
 Good luck! 🙃
-
-## 🌋 Week Three 
+<br>
+# 🌋 Week Three 
 
 ### 📝 To Do
 
@@ -79,7 +78,9 @@ let supermarketShop = [["Banana", '£3'], ["Apple", '£4'], ["Orange", '£5.23']
 
 Good luck! 🙃
 
-## 🛰 Week Four 
+<br>
+
+# 🛰️ Week Four 
 
 ### 📝 To Do
 
@@ -139,8 +140,9 @@ function r(arr) {
 
 r(array);
 ```
+<br>
 
-## 🔮 Week Five
+# 🔮 Week Five
 
 ### 📝 To Do
 
@@ -155,7 +157,9 @@ r(array);
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-## 🥌 Week Six
+<br>
+
+# 🥌 Week Six
 
 ### 📝 To Do
 
@@ -201,30 +205,66 @@ numbers;
 
 Result: `[1, 2, 3, 4]`
 
-### 🧪 Projects Completed
-- [kindCode](https://github.com/fac22/kindcode)
+<br>
 
-## 💣 Week Seven
+# 💣 Week Seven
 
 ### 📝 To Do
 
 - [x] Discuss and setup API project REPO with Anna Cunnane (@moggach) `MON`
 - [x] Complete **Learn Fetch & Promises** workshop [link](https://learn.foundersandcoders.com/workshops/learn-fetch/) `MON`
 - [x] Complete **Promises** workshop [link](https://learn.foundersandcoders.com/workshops/promise-practice/) `MON`
-- [ ] Finish Portfolio site `WED`
-- [ ] Start **Matters** site `WED`
-- [ ] Edit CV `THUR`
+- [x] Finish Portfolio site `WED`
+- [x] Edit CV `THUR`
+- [x] Work on **Execute program** daily `ONGOING`
+- [-] Work on **Khan Academy** daily `ONGOING`
+- [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
+<br>
+# 🛸 Week Eight
+
+### 📝 To Do
+
+- [ ] Tech spike - Debugging JavaScript
+- [ ] Tech spike - Asynchronous JavaScript
+- [ ] Tech spike - Debugging network requests
+- [x] Prepare for interviews
+- [x] Complete `fetch` workshop [link](https://learn.foundersandcoders.com/workshops/real-world-fetch/) `MON`
 - [x] Work on **Execute program** daily `ONGOING`
 - [-] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
-## 🍉 OVERALL TO-DO 
+<br>
 
-- [ ] Finish portfolio site
-- [ ] Finish API site (Space Is The Place)
-- [ ] Finosh API site (ISS Location Checker)
-- [ ] Finish execute program
-- [ ] Start Khan Academy algorithms course
-- [ ] Finish CV
-- [ ] Sort out email and domain
+# 🌵 Week Nine
+
+### 📝 To Do
+
+- [x] Prepare for interviews
+- [ ] Complete `Unit Testing` workshop [link](https://learn.foundersandcoders.com/workshops/learn-unit-testing/)
+- [x] Work on **Execute program** daily `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
+
+
+<br>
+
+# 🔗 Week Ten
+
+### 📝 To Do
+
+- [ ] Complete `Intergration Testing` workshop [link](https://learn.foundersandcoders.com/workshops/learn-integration-testing/)
+- [x] Work on **Execute program** daily `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
+
+<br>
+
+# 🧫 Week Eleven
+
+### 📝 To Do
+
+- [ ] Tech spike - Checking our code `TUE`
+- [ ] Tech spike - Testing methodologies `TUE`
+- [ ] Setup project repo with [@MJOW1999](https://github.com/MJOW1999) `WED`
+- [x] Work on **Execute program** daily `ONGOING`
+- [x] Commit something every day to GitHub `ONGOING`
