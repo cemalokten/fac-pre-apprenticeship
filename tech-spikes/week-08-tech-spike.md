@@ -2,11 +2,12 @@
 
 How would you effectively find out where (and why) an error is occurring in your JavaScript code?
 
-[FCC Console Article](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
+Further reading -
+- [x] [FCC Console Article](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
 
 ### Questions to consider
 
-- [ ] What console methods are there other than console.log? Can these help us debug?
+- [x] What console methods are there other than console.log? Can these help us debug?
 - [ ] What does the debugger; statement do?
 - [ ] How do we use the debugger in our browser?
 
