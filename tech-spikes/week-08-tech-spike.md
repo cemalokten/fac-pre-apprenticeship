@@ -4,11 +4,13 @@ How would you effectively find out where (and why) an error is occurring in your
 
 [FCC Console Article](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
 
-## Questions to consider
+### Questions to consider
 
 - [ ] What console methods are there other than console.log? Can these help us debug?
 - [ ] What does the debugger; statement do?
 - [ ] How do we use the debugger in our browser?
+
+### `console`
 
 - The `console` object gives you access to the browser’s console.
 - Other `console` elements: `console.log`, `console.info`, `console.warn`, `console.error`
@@ -19,8 +21,11 @@ How would you effectively find out where (and why) an error is occurring in your
 ### `assert()`
 - `console.assert(arg1, arg2)` takes two arguements - if the first one is false it displays the second, like `OR`
 
+### `dir()`
 - The `dir` method displays an interactive list of the object passed to it. e.g `console.dir(document.body)`
 
+
+### `table()`
 - The `table` method displays an array or object as a table. e.g `console.table(['Javascript', 'PHP', 'Perl', 'C++'])`
 
 ### `group()`
