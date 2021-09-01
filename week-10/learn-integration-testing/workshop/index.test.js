@@ -28,3 +28,20 @@ test('NON-NUMERICAL', () => {
    equal(result, expected);
 })
 
+test('Check Submit Values', () => {
+    const submit =  document.querySelector("button[type='submit']");
+    
+    const sign = document.getElementById('sign')
+    const valueA = document.getElementById('a');
+    const valueB = document.getElementById('b');
+
+    sign.value = '/'
+    valueA.value = '20';
+    valueB.value = '2';
+    const expected = '10';
+
+    submit.click();
+    const result = document.getElementById('result').value
+    equal(result, expected)
+})
+    
