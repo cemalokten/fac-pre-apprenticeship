@@ -63,7 +63,6 @@ Good luck! 🙃 -->
 ### 📝 To Do
 
 - [x] Work through the **CSS Layouts workshop**
-- [ ] Build a **projects gallery** (over two weeks)
 - [x] Work through **Grid Garden**
 - [x] Recreate a BBC News style homepage using **CSS Grid**
 - [x] Learn about **ARIA** Labels
@@ -237,9 +236,6 @@ Result: `[1, 2, 3, 4]` -->
 
 ### 📝 To Do
 
-- [ ] Tech spike - Debugging JavaScript
-- [ ] Tech spike - Asynchronous JavaScript
-- [ ] Tech spike - Debugging network requests
 - [x] Prepare for interviews
 - [x] Complete `fetch` workshop [link](https://learn.foundersandcoders.com/workshops/real-world-fetch/) `MON`
 - [x] Work on **Execute program** daily `ONGOING`
@@ -265,7 +261,7 @@ Result: `[1, 2, 3, 4]` -->
 
 ### 📝 To Do
 
-- [ ] Complete `Intergration Testing` workshop [link](https://learn.foundersandcoders.com/workshops/learn-integration-testing/)
+- [x] Complete `Intergration Testing` workshop [link](https://learn.foundersandcoders.com/workshops/learn-integration-testing/)
 - [x] Work on **Execute program** daily `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
@@ -275,8 +271,11 @@ Result: `[1, 2, 3, 4]` -->
 
 ### 📝 To Do
 
-- [ ] Tech spike - Checking our code `TUE`
-- [ ] Tech spike - Testing methodologies `TUE`
+- [ ] Tech spike - Debugging JavaScript `WED`
+- [ ] Tech spike - Asynchronous JavaScript `WED`
+- [ ] Tech spike - Debugging network requests `WED`
+- [ ] Tech spike - Checking our code `WED`
+- [ ] Tech spike - Testing methodologies `WED`
 - [ ] Setup project repo with [@MJOW1999](https://github.com/MJOW1999) `WED`
 - [x] Work on **Execute program** daily `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
