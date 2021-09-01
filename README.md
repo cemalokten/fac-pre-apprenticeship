@@ -226,7 +226,7 @@ Result: `[1, 2, 3, 4]` -->
 - [x] Finish Portfolio site `WED`
 - [x] Edit CV `THUR`
 - [x] Work on **Execute program** daily `ONGOING`
-- [-] Work on **Khan Academy** daily `ONGOING`
+- [x] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
@@ -239,7 +239,7 @@ Result: `[1, 2, 3, 4]` -->
 - [x] Prepare for interviews
 - [x] Complete `fetch` workshop [link](https://learn.foundersandcoders.com/workshops/real-world-fetch/) `MON`
 - [x] Work on **Execute program** daily `ONGOING`
-- [-] Work on **Khan Academy** daily `ONGOING`
+- [x] Work on **Khan Academy** daily `ONGOING`
 - [x] One Tweet + read and respond to FAC22 tweets `ONGOING`
 - [x] Commit something every day to GitHub `ONGOING`
 
