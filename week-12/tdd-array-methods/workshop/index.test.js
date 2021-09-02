@@ -1,11 +1,23 @@
-// testing map()
+test('filter() should accept an Array and Function', () => {
+  equal(filter(), 'No array provided')
+  equal(filter([]), 'No function provided')
+})
 
-test("map() should return an array with the same number of elements", () => {
-  const result = map([1], () => {});
-  equal(result.length, 1);
-});
+test('filter() should return an array', () => {
+  equal(Array.isArray(filter([], () => {})), true)
+}) 
 
-test("map() should transform each element of the array using the fn argument", () => {
-  const result = map([1], (x) => x + 1);
-  equal(result[0], 2);
-});
+test('filter() should return elements that match the callback', () => {
+  const actual = filter([2], x => x)
+  equal(actual[0], 2)
+
+})
+
+test('filter() should return elements changed by that match function requirements', () => {
+  const actual = filter([1,2,3,4,5,6], x => x % 2 === 0);
+
+  equal(actual[2], 6)
+})
+
+
+
