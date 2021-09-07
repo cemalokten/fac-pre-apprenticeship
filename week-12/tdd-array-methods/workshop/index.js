@@ -16,3 +16,9 @@ function filter(array, fn) {
   return results;
    
 }
+
+function reduce(array, fn) {
+  if (!Array.isArray(array)) return 'No array provided';
+
+  if (typeof fn !== 'function') return 'No function provided';
+}
